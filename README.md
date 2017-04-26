@@ -6,3 +6,5 @@ It allows roommates to manage their chores, grocery lists, and other general tas
 a better, healthy communication between themselves.
 
 It currently requires a local server to be run.
+
+This application was developed in Android Studio.
